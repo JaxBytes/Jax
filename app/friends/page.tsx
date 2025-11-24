@@ -45,9 +45,9 @@ const AddFriendRead = () => {
           你申请友链无需将我的博客添加至你博客友链，但如果你想添加我的博客至友链可以参考以下信息：
         </span>
         <ul>
-          <li>name: Magren&#39;s Blog</li>
+          <li>name: JaxBytes&#39;s Blog</li>
           <li>
-            link: <a href="https://magren.cc">https://magren.cc</a>
+            link: <a href="https://doc.hk">https://doc.hk</a>
           </li>
           <li>desc: 不为繁华易匠心</li>
           <li>
